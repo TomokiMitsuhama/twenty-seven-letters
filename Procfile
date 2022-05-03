@@ -1,0 +1,1 @@
+web: gunicorn twenty-seven-letters:app --log-file=-
